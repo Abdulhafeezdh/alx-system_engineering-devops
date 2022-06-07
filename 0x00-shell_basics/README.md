@@ -1,1 +1,1 @@
-my 0x00-shell_basics readm
+my 0x00-shell_basics readme file
